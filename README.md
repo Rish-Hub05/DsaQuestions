@@ -33,9 +33,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
