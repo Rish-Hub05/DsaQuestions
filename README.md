@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0118-pascals-triangle) |
 ## Matrix
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0048-rotate-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
