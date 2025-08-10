@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -63,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0088-merge-sorted-array) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
