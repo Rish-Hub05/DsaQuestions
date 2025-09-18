@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0908-middle-of-the-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0547-number-of-provinces) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
