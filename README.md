@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0141-linked-list-cycle) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Stack
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0547-number-of-provinces) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0127-word-ladder) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Greedy
 |  |
