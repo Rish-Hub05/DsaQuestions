@@ -29,9 +29,6 @@ public:
             
         }
         if(topo.size()==v) return topo;
-            else{
-                topo.clear();
-                return topo;
-            }
+            return vector<int>{};
     }
 };
