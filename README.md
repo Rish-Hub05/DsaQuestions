@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0130-surrounded-regions) |
+| [0204-count-primes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0204-count-primes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0733-flood-fill) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0204-count-primes) |
 | [2481-strictly-palindromic-number](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2481-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
@@ -263,4 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rish-Hub05/DsaQuestions/tree/master/3242-count-elements-with-maximum-frequency) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
