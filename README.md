@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0908-middle-of-the-linked-list) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0908-middle-of-the-linked-list) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rish-Hub05/DsaQuestions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Stack
