@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0204-count-primes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0204-count-primes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2481-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Tree
 |  |
 | ------- |
