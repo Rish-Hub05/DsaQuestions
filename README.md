@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0061-rotate-list) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0048-rotate-image) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0011-container-with-most-water) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Rish-Hub05/DsaQuestions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Topological Sort
