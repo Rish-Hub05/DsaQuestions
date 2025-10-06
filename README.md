@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0279-perfect-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0633-sum-of-square-numbers) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
