@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0204-count-primes) |
 | [0322-coin-change](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0322-coin-change) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0461-hamming-distance) |
