@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rish-Hub05/DsaQuestions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Stack
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Recursion
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0733-flood-fill) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0496-next-greater-element-i) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Union Find
 |  |
