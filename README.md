@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0735-asteroid-collision) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -303,11 +305,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0127-word-ladder) |
+| [0402-remove-k-digits](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0402-remove-k-digits) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0402-remove-k-digits) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Rish-Hub05/DsaQuestions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Topological Sort
