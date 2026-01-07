@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0088-merge-sorted-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0200-number-of-islands) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2299-merge-nodes-in-between-zeros) |
