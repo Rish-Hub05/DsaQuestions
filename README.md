@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0229-majority-element-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rish-Hub05/DsaQuestions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0463-island-perimeter) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Tree
 |  |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0229-majority-element-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rish-Hub05/DsaQuestions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Enumeration
 |  |
