@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0733-flood-fill) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0222-count-complete-tree-nodes) |
 | [0493-reverse-pairs](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0633-sum-of-square-numbers) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
