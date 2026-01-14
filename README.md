@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0410-split-array-largest-sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0496-next-greater-element-i) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0410-split-array-largest-sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0542-01-matrix) |
 ## Sorting
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0222-count-complete-tree-nodes) |
+| [0410-split-array-largest-sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0633-sum-of-square-numbers) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0410-split-array-largest-sum) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Rish-Hub05/DsaQuestions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Topological Sort
@@ -394,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0493-reverse-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
