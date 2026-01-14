@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0735-asteroid-collision) |
 | [1036-rotting-oranges](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1539-kth-missing-positive-number](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1539-kth-missing-positive-number) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2227-sum-of-subarray-ranges](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2227-sum-of-subarray-ranges) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0633-sum-of-square-numbers) |
+| [1539-kth-missing-positive-number](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1539-kth-missing-positive-number) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
