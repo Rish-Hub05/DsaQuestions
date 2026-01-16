@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1539-kth-missing-positive-number](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1539-kth-missing-positive-number) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1901-find-a-peak-element-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1901-find-a-peak-element-ii) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2227-sum-of-subarray-ranges](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2227-sum-of-subarray-ranges) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Rish-Hub05/DsaQuestions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1036-rotting-oranges) |
+| [1901-find-a-peak-element-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1901-find-a-peak-element-ii) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Math
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0633-sum-of-square-numbers) |
 | [1539-kth-missing-positive-number](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1539-kth-missing-positive-number) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1901-find-a-peak-element-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
