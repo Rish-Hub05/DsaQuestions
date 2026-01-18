@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0234-palindrome-linked-list) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0234-palindrome-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0633-sum-of-square-numbers) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Tree
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0493-reverse-pairs) |
 ## Binary Search Tree
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
