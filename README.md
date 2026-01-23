@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0073-set-matrix-zeroes) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0279-perfect-squares](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0279-perfect-squares) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0455-assign-cookies) |
