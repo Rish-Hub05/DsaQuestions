@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0907-sum-of-subarray-minimums) |
 | [0937-online-stock-span](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0937-online-stock-span) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0907-sum-of-subarray-minimums) |
 ## Sorting
 |  |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0127-word-ladder) |
 | [0402-remove-k-digits](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0402-remove-k-digits) |
+| [0678-valid-parenthesis-string](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0678-valid-parenthesis-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Greedy
 |  |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0860-lemonade-change) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Rish-Hub05/DsaQuestions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
