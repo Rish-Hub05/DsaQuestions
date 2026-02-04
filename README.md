@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0279-perfect-squares) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0279-perfect-squares](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0279-perfect-squares) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0070-climbing-stairs) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Counting
 |  |
