@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0463-island-perimeter) |
 | [0493-reverse-pairs](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0493-reverse-pairs) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0907-sum-of-subarray-minimums) |
