@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0633-sum-of-square-numbers) |
 | [1642-water-bottles](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1642-water-bottles) |
+| [1922-count-good-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1922-count-good-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2481-strictly-palindromic-number) |
 | [3336-water-bottles-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/3336-water-bottles-ii) |
 ## Dynamic Programming
