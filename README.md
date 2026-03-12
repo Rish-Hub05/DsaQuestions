@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0213-house-robber-ii) |
+| [0216-combination-sum-iii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0322-coin-change) |
@@ -523,4 +524,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
