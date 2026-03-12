@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0118-pascals-triangle) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0231-power-of-two) |
@@ -517,4 +519,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
