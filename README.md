@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0930-binary-subarrays-with-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rish-Hub05/DsaQuestions/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Stack
 |  |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0678-valid-parenthesis-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Greedy
 |  |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Binary Indexed Tree
