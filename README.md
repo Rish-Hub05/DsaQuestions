@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0907-sum-of-subarray-minimums) |
 | [0937-online-stock-span](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0937-online-stock-span) |
+| [1021-remove-outermost-parentheses](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1021-remove-outermost-parentheses) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2227-sum-of-subarray-ranges) |
 ## Recursion
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Greedy
