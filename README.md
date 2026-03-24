@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0633-sum-of-square-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1642-water-bottles) |
+| [1903-largest-odd-number-in-string](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1922-count-good-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2481-strictly-palindromic-number) |
 | [3336-water-bottles-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/3336-water-bottles-ii) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0860-lemonade-change) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1903-largest-odd-number-in-string](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1903-largest-odd-number-in-string) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Rish-Hub05/DsaQuestions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Topological Sort
 |  |
