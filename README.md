@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1539-kth-missing-positive-number) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1901-find-a-peak-element-ii) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1036-rotting-oranges) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1901-find-a-peak-element-ii) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
