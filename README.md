@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1004-max-consecutive-ones-iii) |
+| [1020-number-of-enclaves](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1036-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1901-find-a-peak-element-ii) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0820-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0820-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Binary Search
@@ -591,4 +595,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0014-longest-common-prefix) |
+## Union-Find
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
