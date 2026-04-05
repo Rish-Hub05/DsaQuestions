@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0279-perfect-squares) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0633-sum-of-square-numbers) |
