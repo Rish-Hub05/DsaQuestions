@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0322-coin-change) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0930-binary-subarrays-with-sum) |
