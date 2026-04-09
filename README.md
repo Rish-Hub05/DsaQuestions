@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1901-find-a-peak-element-ii) |
+| [1929-concatenation-of-array](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1929-concatenation-of-array) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2227-sum-of-subarray-ranges](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2227-sum-of-subarray-ranges) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/Rish-Hub05/DsaQuestions/tree/master/1929-concatenation-of-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Rish-Hub05/DsaQuestions/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3336-water-bottles-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/3336-water-bottles-ii) |
