@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0015-3sum) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/Rish-Hub05/DsaQuestions/tree/master/0190-reverse-bits) |
